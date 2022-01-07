@@ -1,5 +1,6 @@
 body{
     font-family: 'DM Serif Display', serif;
+    font-size: 20px;
 }
 h1{
     font-size: 80px;
@@ -8,7 +9,7 @@ h1{
     color: orange;
 }
 section{
-    display: flex; 
+    display: flex;
 }
 .half-width{
     width: 50%;
@@ -29,4 +30,16 @@ section{
 #mid-title{
     text-align: center;
     font-size: 60px;
+}
+#first-part{
+    width: 500px;
+    background-color: lightblue
+}
+#second-part{
+    width: 500px;
+    background-color: lightcoral;
+}
+#third-part{
+    width: 500px;
+    background-color:lightgreen; 
 }
