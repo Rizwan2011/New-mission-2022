@@ -5,6 +5,12 @@ body{
 h1{
     font-size: 80px;
 }
+h2{
+    font-size: 60px;
+}
+h3{
+    font-size: 40px;
+}
 .orange-title{
     color: orange;
 }
@@ -42,4 +48,24 @@ section{
 #third-part{
     width: 500px;
     background-color:lightgreen; 
+}
+.third-section{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: left;
+    padding-right: 50px;
+}
+.fourth-section{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
+    background-position: right;
+    padding-right: 50px;
+}
+#finishing{
+    text-align: center;
+    padding: 10px 25px;
+    background-color: yellowgreen;
+    color: white;
 }
