@@ -1,0 +1,32 @@
+body{
+    font-family: 'DM Serif Display', serif;
+}
+h1{
+    font-size: 80px;
+}
+.orange-title{
+    color: orange;
+}
+section{
+    display: flex; 
+}
+.half-width{
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 0%;
+}
+.half-width img{
+    width: 70%;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 25px;
+    background-color: tomato;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+}
+#mid-title{
+    text-align: center;
+    font-size: 60px;
+}
